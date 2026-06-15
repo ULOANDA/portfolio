@@ -477,7 +477,7 @@ export default function Home() {
 
             {/* Quick Resume Download */}
             <a 
-              href="/Fullstack Developer_Phạm Thế Anh.pdf" 
+              href="Fullstack Developer_Phạm Thế Anh.pdf" 
               download="Fullstack Developer_Phạm Thế Anh.pdf" 
               className="flex items-center justify-center gap-1.5 px-4 h-9 rounded bg-[var(--accent)] hover:bg-[var(--accent-hover)] hover:-translate-y-[1px] transition-all text-xs font-mono font-bold tracking-widest text-white uppercase cursor-pointer"
             >
@@ -527,7 +527,7 @@ export default function Home() {
                   {language === "vi" ? "ENGLISH" : "TIẾNG VIỆT"}
                 </button>
                 <a 
-                  href="/Fullstack Developer_Phạm Thế Anh.pdf" 
+                  href="Fullstack Developer_Phạm Thế Anh.pdf" 
                   download="Fullstack Developer_Phạm Thế Anh.pdf" 
                   onClick={() => setMenuOpen(false)}
                   className="flex-1 btn-accent text-sm text-center justify-center py-3"
@@ -597,7 +597,7 @@ export default function Home() {
               <a href="#contact" className="btn-accent px-8 py-3.5 text-center justify-center font-mono tracking-widest uppercase">
                 {language === "vi" ? "LIÊN HỆ TÔI" : "GET IN TOUCH"}
               </a>
-              <a href="/Fullstack Developer_Phạm Thế Anh.pdf" download="Fullstack Developer_Phạm Thế Anh.pdf" className="btn-outline px-8 py-3.5 text-center justify-center font-mono tracking-widest uppercase">
+              <a href="Fullstack Developer_Phạm Thế Anh.pdf" download="Fullstack Developer_Phạm Thế Anh.pdf" className="btn-outline px-8 py-3.5 text-center justify-center font-mono tracking-widest uppercase">
                 <Download className="w-4 h-4" /> {language === "vi" ? "TẢI XUỐNG CV" : "MY RESUME"}
               </a>
             </motion.div>

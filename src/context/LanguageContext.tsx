@@ -30,8 +30,8 @@ const translations = {
     },
     about: {
       title: "Về Bản Thân",
-      text1: "Mình là một lập trình viên Fullstack đầy nhiệt huyết, tốt nghiệp chuyên ngành Công nghệ thông tin tại Trường Đại học Kiến Trúc Hà Nội (GPA 3.13/4.0). Mình có tư duy lập trình vững chắc, khả năng làm việc độc lập cũng như phối hợp nhóm hiệu quả theo mô hình Agile/Scrum.",
-      text2: "Thế mạnh của mình là xây dựng các RESTful API hiệu năng cao, tối ưu hóa cơ sở dữ liệu (PostgreSQL, MySQL) và kiến tạo các giao diện người dùng mượt mượt mà, responsive tuyệt đối trên mọi thiết bị. Mình luôn chú trọng vào mã nguồn sạch (Clean Code), tính tái sử dụng và khả năng mở rộng hệ thống.",
+      text1: "Tôi là một lập trình viên Fullstack đầy nhiệt huyết, tốt nghiệp chuyên ngành Công nghệ thông tin tại Trường Đại học Kiến Trúc Hà Nội (GPA 3.13/4.0). Tôi có tư duy lập trình vững chắc, khả năng làm việc độc lập cũng như phối hợp nhóm hiệu quả theo mô hình Agile/Scrum.",
+      text2: "Thế mạnh của tôi là xây dựng các RESTful API hiệu năng cao, tối ưu hóa cơ sở dữ liệu (PostgreSQL, MySQL) và kiến tạo các giao diện người dùng mượt mượt mà, responsive tuyệt đối trên mọi thiết bị. Tôi luôn chú trọng vào mã nguồn sạch (Clean Code), tính tái sử dụng và khả năng mở rộng hệ thống.",
       education: "Học Vấn",
       school: "Trường Đại học Kiến Trúc Hà Nội (2020 - 2025)",
       major: "Chuyên ngành: Công nghệ thông tin",
@@ -135,7 +135,7 @@ public class FAFUExperience implements Developer {
     },
     skills: {
       title: "Bộ Kỹ Năng Kỹ Thuật",
-      subtitle: "Những công cụ và công nghệ mình sử dụng để kiến tạo các sản phẩm số chất lượng",
+      subtitle: "Những công cụ và công nghệ tôi sử dụng để kiến tạo các sản phẩm số chất lượng",
       categories: {
         frontend: "Frontend Development",
         backend: "Backend Development",
@@ -145,7 +145,7 @@ public class FAFUExperience implements Developer {
     },
     projects: {
       title: "Dự Án Thực Tế",
-      subtitle: "Các sản phẩm tiêu biểu mình trực tiếp thiết kế, phát triển và tối ưu hiệu năng",
+      subtitle: "Các sản phẩm tiêu biểu tôi trực tiếp thiết kế, phát triển và tối ưu hiệu năng",
       techUsed: "Công nghệ sử dụng",
       role: "Vai trò",
       items: [
@@ -210,7 +210,7 @@ public class FAFUExperience implements Developer {
       ]
     },
     contact: {
-      title: "Liên Hệ Với Mình",
+      title: "Liên Hệ Với Tôi",
       subtitle: "Bạn có dự án thú vị hay đang tìm kiếm một vị trí Fullstack Developer? Hãy liên hệ ngay!",
       infoTitle: "Thông tin liên hệ",
       location: "Hà Đông, Hà Nội, Việt Nam",
